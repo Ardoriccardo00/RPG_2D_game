@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="left-down" width="75" height="75" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <properties>
+  <property name="unity:scale" value=".0625"/>
+ </properties>
+ <tileset firstgid="1" source="base tileset.tsx"/>
+ <layer name="Erba" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt2WGKgzAQQOGBgtfyVj1JD1z8URpCJhljJxnTF/jYsrZq3kYr7C4iOzDApuj93Jl93EltTlc7rNQrHbPPJbKt0Yp+3w6lRqUx+1wj0sbs84pohVaW7+Wz3zVag7u1udqyd03Nnkdrjvlcf9mt1aY0Inb0fr6t7VuSn61OUVt5PN+W9qmN2vo7Xr8ebd6t8t95HMfaS5T31FrtyfYRa6q2Djxaab207VqLtJd3q3w+nvct69oqbau18LoGa+vJet96njye5W+QNimtKcu6GXUNet3je9er1iq/P3lfg5Z15nGMK621FiNbRddqVWr2r2jV32rGs2hUkr3+tKIR4EcCnAPWIob3rPK/UAAAAAAAAAAAAAAAAAAAAAAAAADA/bwBKsVLgw==
+  </data>
+ </layer>
+ <layer name="Livello tile 1" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztm21uEzEQhp1sGgn6Fy4DNJFoL1EQHz0DokUC/nEChArtAXqG3gH4AZE4D45ai6lrj2f9veUd6ZGaXSe2n4xnt7ubxVypHSBiT7MCIo41J0DEWvlRzL5cKNLPw8B4auGKMfOoMaatq1eDUq87pWVeuVx902M66xTXHPRmtWjAjvrn6oXmd2e4XD3R7DVgRVydD/LcXl5DX+esVSam4ComSvjiXD3SHCfymHETchUbdp6VrLPG1Uo4Nu5z3yq5s1yuxkaKN85V7HcgWdchVzFr8p4+tt5n2E08p/O5MvsPZ0o9E/B8ltcVjT/6sy+tcbnq/FPtYp/hIKMr+l2a/Z9n4XPGI82XRFdcraX7uLnUdGWPzbgKnTOeZ3TlcgZXcld2+LzVXoM2LVzFhsSVy7ur9vTsKkfEuPKFa93ba3DKrt5rFx8YPsJVkXAdX3pZg66+6Th9xHqQHj9olHBl/tfhONH8ur7+sRluziGHj9SIdWXmtOXlcPua08ZyZffpmz/ngra90HXmU2VCrlzj/K4d/CDQdUO3/xzpylUPuO21Q+qKi5h6nHL+Z2idV67jYE5X9lpLoXa0cmX+nlpe2eMP1XYb6XVfXx2fUl7ZcK4W86t7+8u535XdzteXr//e84qOn3Nlnn9YB1zRdpyrFF+1Y6wr8/zDu4ArVzvpfKXte88rSb2y55QzV3rJK/M6tyu7n1y0zCuJq9jaXsJV7RjrKra238W8UgFXuWv7VHJKecaRo16VZhutj4OtXZn7jkcVvft4oK6eCTOMdUWjhKveryFLXfneX8pV7TWWcw3WdtVbjF2Da8d7zfxOh/TnV7/ekbwK5UJOpppXvnYGep8iF5sJ5tVi3ua3L0vP2HqDumr1G5RS5/ulXL1RbZ5z7xXOFbiJy5Xkfvr/SOv1DgAAAAAAAAAAAAAAAAAAAAAAYNr8Ba8rj7E=
+  </data>
+ </layer>
+ <layer name="Oggetti" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt289NwzAchmErIXcOuRQkxASswARIUBiAA4OwQOcA1mEEduBOAo0auXb8c4X/xe8jWUmTNHa+2k5aqUoBwDpcNalbENdzq9R3+7eE2c2Zu+DYZ8A+tWvVa7izAyjJ/L593yn1JCgPnf0cJQrZ/m3nPqYWb429jHLOapfZc17OWcX23hxKr70e6VmN430q0+sS3Eaow5RVrT4aexnlNga/hnZdtsclB7lllbO1ZmWbS0zbTc+id4JnUZSl3y83wzx1kclcVZqtYJzo5bHScXPK3EpW8udAspIjKzmykiMruVqy0udvspIjKzlXVqbniFRZpf5ti34lV1pWKftWaVmlRFZy/M4Qz3UTpqSS+l6L8vXuQ369DH3tfL8EAAAAgND4vgvApZZ5Ys3XueZrA58vgHow36EUIfsq4wDAkvl/yef/KZ/22Y777+3zfUvtS8nUNtf60vt9zmOr27cNsYTMStJXXXXnltUp1+Wz3WcM6uu5ZWVrR8gxKK0vx6z0ddc+n+01zle+9zvXuq0OfX/s++APAy5ISA==
+  </data>
+ </layer>
+ <layer name="Oggetti 2" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt08EJwzAQRUFhnAIMbsVV5Jg60v81JXhDslokzYDuy+epNQCY37VXXwAAv3s9qi8Yh63ibBVnqzhbxdkqzlZxtvrOUX0AQ3lvrT07P9agKzLoigy6IoOuyKArMuiKDLrizll9wOB6/zF/cA3VHelqTtUd6QoAAAAAAAAAAOA/PufdZ2o=
+  </data>
+ </layer>
+</map>

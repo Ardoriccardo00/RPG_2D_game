@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="left-down" width="75" height="75" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="base tileset.tsx"/>
+ <layer name="Livello tile 1" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztnFty1DAQRTUOeFeD1wEUr02ErAMoHtkS8AHZEEpVlBKdfku25LE+biUz0bhbZ263bVmVcwjhDHQ6uCAPTq1zba3BarBqzat1nj1Iy2ohNGc/5+x1Lb27CuF91IersuPM4WmO8D1Jpay4fLD8rPoeGf2IujWwomJzeWnG1mKl/b5KWGm/f00OHp/VYFXTRzV8VVKD3Hxq9CtML2MzfBX1+rQtK01cS23mKmHF+fVTzPVz1JeNWWnjemrAy0qq7T2wejaF8DxqnnQ8Paw0/XUPrM6R0Yt7ThPtNQ8r7fnHmnMvrDTnzCOyepw7wQobvxyMFfSK1ldJPbLK52O9FsXiUuc5qV95e/vWvkrH1LLyxNX4ag+sJF+V9CuKFeetXmtwrX5l8RVWu4MVXYNPxg9WYr8arPrs7ZqePFjprnN6ZrWENqx6qcHHuXfsq9asoFew6/Z83GBF+4rjdCRW6NwN1wxHYUV5xtLblwOwwjhh/YqaR65LZsVxsvjqKKyoetKw2rOvpBqZCVZLwH/nzoN7r0EqVv4eVYOwFiErjNOea5Cac/5eqa8w/rVZwTn+jLn+ivp9wv/u7VdSHnlcafx1ZPQx6mbCOdVkVeKXtVhJXsL6PMaolNUWbGqy0jLijuth1YITZEX5RHrNMbp0Vtra0zC6VFZSDS4Bn6NGNVmlPa5b69sDq6+N4ifd7+3Vskrf71F1a2D1J47920BvH3J90yh+0p2BVUnNl1yX1dpb68kdjqnFCsbB9rjCMdIeRA+rPK7le9qSFYyrWfeW9hNoWMHPcWsyHK+arKw1RN3D/hebuXfFWGmup6R7561ZaZhha7nwc3BNRFODUh/knne3ZkUdV7MmQ7HKY3DrV1hOUg1q+xWar5MVjFHKiuLArV/V7FeaOi1hxR3b4ytsXtZ7Z2xdVKteWc1OX0l1WLqnl5rP3IBVPl56NgBZUd6bFXGtvNZmxeWMfQ7zFTzumntrt2BFeVbDKhfXrzhfcXPtkZV0btHswbD6SjPXWnvF12QFvVVyzSCxosbC3s6N09QzjLcGK5izhhXW05ZgX0P2sJJ4rcXKUgvWe5y9sLLW/BqsqDkMVjIrb1yrjsQqrSl6NU9tWVHXDJrzoDVuiuPV0ohVfm6wstL0Fixu2uPh1c0OfaXpxd7/zyAdt6d+ZWVFzc3T21uzgvugMF0Dj9foV5q4Hl5rsvIIY5We4d6t/HwQ5oHWgVKnocFqsBqsBqvdCOPyDzQrpbU=
+  </data>
+ </layer>
+</map>

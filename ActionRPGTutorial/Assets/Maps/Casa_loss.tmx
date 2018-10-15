@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="left-down" width="75" height="75" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="base tileset.tsx"/>
+ <tileset firstgid="1768" source="red_collision.tsx"/>
+ <layer name="Livello tile 1" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt1LsNg0AURNEnhOjMpinz6Qq7NDK/TXcD1gGRz5GmgRtMBAAAAAAAAAAAcKdz7N+/Kw2W6XpaafULrfqVBq+4nlZtq8cQ8czNg1a1utWajbbcrlWjbnVko3fuo1XDX/XTCgAAAAAAAAAAAOB+X010RNA=
+  </data>
+ </layer>
+ <layer name="Oggetti" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztzkEJgEAQBdDdBBYwgQYRGxjALuLVVIJVDOGCHsWbrgvvwWeGmcsPAQAAAAAAAAAAgBJtKcvNfU1pP+7yd1XKcO1NDGGM5x6vWeco9VNdyvzw778qUoApdwEAXrfnLgAAAAAAAAAAAAAU4QA8lwXy
+  </data>
+ </layer>
+ <layer name="Collisioni" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztySEBAAAIA7Ar+sckBoIISDa7BAAAAAAAAAAAAGB13R4AAAAAAAAAAAAAAL4Zp5AB3Q==
+  </data>
+ </layer>
+</map>
