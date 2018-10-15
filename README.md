@@ -1,2 +1,2 @@
 # RPG_2D_game
-Il mi ogioco rpg di Unity
+Il mio gioco rpg di Unity
